@@ -1,2 +1,2 @@
-# CS50-Pset1
-Pset1 from CS50 - Scratch
+# CS50-Pset0
+Pset0 from CS50 - Scratch
